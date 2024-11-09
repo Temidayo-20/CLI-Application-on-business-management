@@ -1,4 +1,7 @@
+## Temitope Ayomide Daniel(68627)
+
 # CLI-Application-on-business-management
+
 
 This is a simple command-line quiz application for Business Management students. Users answer multiple-choice questions, and the application tracks their score, giving a pass or fail result at the end.
 
